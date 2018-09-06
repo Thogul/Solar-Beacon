@@ -21,19 +21,3 @@ To flash it, connect it to you PC and load up Visual Studio Code, with the Platf
 Now you are pretty much done with the Beacon, just make sure to power it up and test if it works properly.
 
 You can find the source code for the Beacon right here: github.com/thogul/Solar-Beacon
-
-Relay
-
-The Relay is the box with an arrow and a blue line on it.
-
-![This is the Relay](https://d2mxuefqeaa7sj.cloudfront.net/s_0E6F65BF6D9DACD3E9DB665A93A1D8F9B54E7C10C982D281FF46A388F12AC47A_1536240951364_Bluetooth+boxes.jpg)
-
-
-They function like a solid state relay, with a MOSFET as the switch. There are two ports on the box. The one below the arrow if for input, while the one on top if for output.
-The blue stripe indicates what is the negative pole. It would be good to also make sure this is true just in case.
-
-To flash the device, do the same as with the Beacon.
-
-You can find the source code for the Relay here: github.com/Thogul/ApplianceRelay
-
-Notes: The polarity of the MOSFET might be reversed. If it is, just open the box and switch them.
