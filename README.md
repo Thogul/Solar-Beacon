@@ -7,6 +7,8 @@ The projects are written using PlatformIO, you can learn more about it from Plat
 NB: All devices needs to be flashed with fresh firmware. You will find a link to the correct Github Repo in each corresponding section.
 
 Beacon
+
+
 ![The Beacon](https://d2mxuefqeaa7sj.cloudfront.net/s_0E6F65BF6D9DACD3E9DB665A93A1D8F9B54E7C10C982D281FF46A388F12AC47A_1536239745604_Bluetooth+boxes.jpg)
 
 
